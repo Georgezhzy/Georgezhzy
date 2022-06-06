@@ -1,4 +1,5 @@
-### Hello 👋
+### Hello! 👋
+### I'm George
 
 <!--
 **Georgezhzy/Georgezhzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
